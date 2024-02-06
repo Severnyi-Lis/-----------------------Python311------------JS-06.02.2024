@@ -1,0 +1,17 @@
+ #zzz{
+    border-style: groove;
+    height: fit-content;
+    width: fit-content;
+    font-family: cursive;
+}
+#allfood{
+    display: flex;
+    flex-direction: column;
+    font-family: cursive;
+    font-size: large;
+}
+input{
+    position: relative;
+    right: 14cm;
+    top: 3ch;
+}
